@@ -1,0 +1,9 @@
+Välj ett slumpmässigt nummer
+
+Kör tills at användaren gissar rätt:
+    Fråga om ett nummer
+
+    Jämför det slumpmässiga numret med användarens gissning:
+        Berätta om numret är mindre, större eller lika med det slumpmässiga numret
+    
+    
